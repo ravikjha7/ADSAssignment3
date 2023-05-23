@@ -178,3 +178,9 @@ Course = {course_id,title,dept_name,credits}
 //     "budget":2022,
 //     "YOE":1995
 // }
+
+
+/*
+USE universityportal;
+INSERT INTO INSTRUCTOR VALUES("1", "wow", "Wow", "CSE", "20000");
+*/
